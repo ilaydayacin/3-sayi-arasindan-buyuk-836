@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\bin\Debug\3 sayıdan büyük küçük.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\bin\Debug\3 sayıdan büyük küçük.exe
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\bin\Debug\3 sayıdan büyük küçük.pdb
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\obj\Debug\3 sayıdan büyük küçük.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\obj\Debug\_3_sayıdan_büyük_küçük.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\obj\Debug\_3_sayıdan_büyük_küçük.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\obj\Debug\3 sayıdan büyük küçük.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\obj\Debug\3 sayıdan büyük küçük.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\obj\Debug\3 sayıdan büyük küçük.exe
+C:\Users\Win10\Desktop\ilkay py\c\3 sayıdan büyük küçük\3 sayıdan büyük küçük\obj\Debug\3 sayıdan büyük küçük.pdb
